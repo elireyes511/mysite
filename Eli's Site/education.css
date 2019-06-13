@@ -1,0 +1,62 @@
+.navbar {
+    background: rgb(99, 13, 13);
+    height: 90px;
+
+}
+
+.nav-item {
+    color: rgb(133, 195, 194) !important;
+    text-align: left;
+}
+
+.navbar-brand {
+    color: rgb(133, 195, 194) !important;
+
+}
+
+.active {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.carousel-inner {
+    width: 75% !important;
+    height: 80%;
+    margin: auto;
+  }
+  
+  .carousel-item {
+    padding-left: 0px;
+   padding-top: 80px;
+  }
+  
+  .main {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+  }
+  
+  .carousel {
+    margin: 75px auto auto auto;
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(133, 195, 194);
+    border-radius: 40px;
+  }
+  
+  .text {
+      float: right;
+      width: 45%;
+  }
+  
+  .image {
+      float: left;
+      height: 100%;
+      width: 50%;
+      margin-right: px;
+
+  }
+  
+  img {
+      height: 100%;
+  }
